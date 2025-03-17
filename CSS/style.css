@@ -1,6 +1,0 @@
-body{border: 0; text-transform: capitalize; text-align: ;}
-header{text-align: ;  font-size: 5vh; text-decoration: underline rgb(12, 12, 12);}
-header ::before{content: "📚";}
-h2{font-size: 4vh;}
-.h-s{font-size: 3vh; color: green;}
-ul{list-style: none;}
